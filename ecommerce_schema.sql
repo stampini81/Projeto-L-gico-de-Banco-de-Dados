@@ -1,5 +1,5 @@
 -- Desafio de Projeto: Construindo seu Primeiro Projeto Lógico de Banco de Dados
--- Aluno: [Seu Nome Aqui]
+-- Aluno: Leandro da Silva Stampini
 -- Descrição: Script SQL para criação do esquema de banco de dados de um e-commerce,
 -- inserção de dados de exemplo e consultas complexas.
 
